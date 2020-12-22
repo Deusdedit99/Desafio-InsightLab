@@ -5,4 +5,4 @@ Este desafio consistiu em resolver 2 problemas com o foco na área de Ciência d
 
 O seguinte video explica somente a soluçãoo do problema 2.Confira o vídeo no You Tube.
 
-Link para o screencast:
+Link para o vídeo no youtube:https://youtu.be/W42Jcswo-94
